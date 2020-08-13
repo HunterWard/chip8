@@ -1,0 +1,3 @@
+﻿  cpu.cpp
+C:\Users\hntrw\source\repos\chip8\chip8\cpu.cpp(71,36): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+  chip8.vcxproj -> C:\Users\hntrw\source\repos\chip8\Debug\chip8.exe
